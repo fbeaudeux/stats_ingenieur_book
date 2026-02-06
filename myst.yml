@@ -14,6 +14,7 @@ project:
     - file: intro
     - file: Probabilites_remise_niveau
     - file: Variable_aleatoire_discrete
+    - file: VAcontinues
     - file: Stats_Descriptives_1_variable
     - file: Stat_bivariees_correlation
     - file: Stat_inferentielles_regression_lineaire
@@ -23,6 +24,8 @@ project:
     - file: memo_python
     - file: correction_stat_descr_seance4
     - file: correction_etude_qualite_vin
+    - file: correction_seance_7_tests_stat
+
 
   # github:
   # To autogenerate a Table of Contents, run "myst init --write-toc"
