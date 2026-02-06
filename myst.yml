@@ -2,8 +2,8 @@
 version: 1
 project:
   id: 9ba2e558-29a1-4acb-9c79-dd1cb9b51eb9
-  title: "Cours de statistiques inférentielles pour ingénieurs"
-  description: "Ce cours de statistiques inférentielles pour ingénieurs est conçu pour fournir aux étudiants les connaissances et les compétences nécessaires pour comprendre et appliquer les concepts statistiques dans le contexte de l'ingénierie. Le cours couvre des sujets tels que les distributions de probabilité, les tests d'hypothèses, les intervalles de confiance, la régression linéaire, et l'analyse de variance. Les étudiants apprendront à utiliser des outils statistiques pour analyser des données, interpréter les résultats, et prendre des décisions éclairées basées sur des données."
+  title: "Cours de statistiques inférentielles pratiques pour l'ingénieur"
+  description: "Ce cours de statistiques inférentielles pour ingénieurs est conçu pour fournir aux étudiants les connaissances et les compétences nécessaires pour comprendre et appliquer les concepts statistiques dans le contexte de l'ingénierie. Le cours couvre des sujets tels que les distributions de probabilité, les tests d'hypothèses, les intervalles de confiance, la régression linéaire, et l'analyse de variance. Les étudiants apprendront à utiliser des outils statistiques pour analyser des données, interpréter les résultats, et prendre des décisions éclairées basées sur des données. Il sauront également comment utiliser des logiciels statistiques pour effectuer des analyses de données et visualiser les résultats. Ce cours est essentiel pour les ingénieurs qui souhaitent appliquer des méthodes statistiques dans leur travail quotidien, que ce soit pour la recherche, le développement de produits, ou l'amélioration des processus, et la définition de plan d'expérience."
   # version: 0.1.0
    # license: CC-BY-4.0
    # repository:
