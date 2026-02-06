@@ -14,7 +14,7 @@ project:
     - file: intro
     - file: Probabilites_remise_niveau
     - file: Variable_aleatoire_discrete
-    - file: VAcontinues
+    - file: VAContinues
     - file: Stats_Descriptives_1_variable
     - file: Stat_bivariees_correlation
     - file: Stat_inferentielles_regression_lineaire
